@@ -3,7 +3,7 @@
 Um jogo interativo de adivinhação desenvolvido para praticar lógica de programação, manipulação de eventos no DOM e reconhecimento de voz. O sistema gera um número aleatório e fornece dicas ao jogador até que ele acerte.
 
 ## 🔗 Jogue agora
-Teste sua sorte aqui: [https://jogo-nine-mauve.vercel.app/](https://jogo-nine-mauve.vercel.app/)
+Teste sua sorte aqui: https://jogo-do-numero-secreto-rust-gamma-12.vercel.app/
 
 ## 🛠️ Funcionalidades
 - **Geração Aleatória:** O sistema sorteia um número entre um intervalo definido.
