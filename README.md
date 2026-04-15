@@ -25,4 +25,5 @@ Este projeto foi um marco importante para consolidar conceitos de:
 4. **Deploy:** Hospedagem e atualização via Vercel.
 
 ---
+Este projeto foi desenvolvido como parte Challenge ONE, dentro da trilha de lógica de programação do programa Oracle Next Education (ONE) em parceria com a Alura e o Potência Tech (powered by iFood).
 Desenvolvido por **Gabriel Mingoti**
